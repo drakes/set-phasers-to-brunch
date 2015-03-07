@@ -1,0 +1,30 @@
+{
+  "name": "your-app",
+  "version": "1.0.0",
+  "description": "Description",
+  "dependencies": {
+    "doc-ready": "~1.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "~6.5.1",
+    "brunch": "~2.8.2",
+    "coffee-script": "~1.11.1",
+    "coffee-script-brunch": "~2.0.0",
+    "coffeelint": "~1.16.0",
+    "coffeelint-brunch": "~2.0.0",
+    "css-brunch": "~2.6.1",
+    "javascript-brunch": "~2.0.0",
+    "mocha-phantomjs": "~4.1.0",
+    "node-notifier": "~4.6.1",
+    "phantomjs-prebuilt": "~2.1.13",
+    "post-brunch": "https://github.com/marcinbunsch/post-brunch/tarball/master",
+    "postcss-brunch": "~2.0.3",
+    "styledocco": "~0.6.6",
+    "stylus-brunch": "~2.7.2"
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "echo \"Use: brunch watch --server\" && exit 1"
+  },
+  "author": "Your Name"
+}
