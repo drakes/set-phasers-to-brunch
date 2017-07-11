@@ -30,7 +30,7 @@ npm install -g mocha-phantomjs phantomjs stylus styledocco
 ### Create a project with this skeleton
 
 ```
-brunch new gh:drakes/set-phasers-to-brunch [optional-output-dir]
+brunch new [optional-output-dir] gh:drakes/set-phasers-to-brunch
 ```
 
 ### Build, run tests, and launch a server
