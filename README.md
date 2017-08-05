@@ -14,17 +14,17 @@ Set Phasers to: Brunch seeds your app structure, including a JavaScript game fra
   * [Mocha](http://mochajs.org/)
   * [Chai](http://chaijs.com/)
   * [Sinon](http://sinonjs.org/)
-  * [Mocha-PhantomJS](https://github.com/metaskills/mocha-phantomjs)
+  * [PhantomJS](http://phantomjs.org/)
 
 ## Getting started
 ### Requirements
 * [node](https://nodejs.org/)
 * [brunch](http://brunch.io/)
 
-Additionally, mocha-phantomjs, phantomjs, stylus, and styledocco should be installed globally to make their executables available (for tests and style guide):
+Additionally, phantomjs, stylus, and styledocco should be installed globally to make their executables available (for tests and style guide):
 
 ```
-npm install -g mocha-phantomjs phantomjs stylus styledocco
+npm install -g phantomjs-prebuilt stylus styledocco
 ```
 
 ### Create a project with this skeleton
